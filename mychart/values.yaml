@@ -1,0 +1,5 @@
+deployments:
+  replicaCount: 20
+services:
+  type: LoadBalancer
+  port: 80
